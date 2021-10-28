@@ -1,8 +1,8 @@
 {
-  "name": "express-form",
+  "name": "food_blog",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "start.js",
   "scripts": {
     "watch": "nodemon ./start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
